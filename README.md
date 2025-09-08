@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Crack-Time Banner" width="100%">
+</p>
+
+# ⏳ Crack-Time – Password Strength & Hack Time Estimator
 # ⏳ Crack-Time – Password Strength & Hack Time Estimator
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Termux-green)
